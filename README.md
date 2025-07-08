@@ -72,3 +72,8 @@ This Power BI project presents a two-page **Sales & Regional Analysis Dashboard*
 
 ## 📂 Repository Structure
 
+Sales-Region-Dashboard/
+├── Sales_Region_Dashboard.pbix # Power BI file
+├── 96f066d3-7bd9-49c1-871a-cdc104bcfb6c.png # Page 1 Screenshot
+├── 16358d15-5499-42e3-8b94-0432fc9a070e.png # Page 2 Screenshot
+└── README.md
